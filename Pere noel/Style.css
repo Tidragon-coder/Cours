@@ -1,0 +1,210 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mountains of Christmas', serif;
+    flex-wrap: wrap;
+    font-weight: bold;
+
+}
+
+
+.bar {
+    background-color: red;
+    width: 180px;
+    height: 2px;
+    margin-left: 49%;
+}
+
+nav {
+    background-color: red;
+    width: 97, 5%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.Père {
+    color: white;
+    font-size: 40px;
+}
+
+.texteg {
+    display: flex;
+    padding: 20px;
+}
+
+.stxt {
+    margin-left: 60px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+
+header {
+    background-color: bisque;
+    width: 100%;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.img1 {
+    margin-left: 45%;
+    margin-bottom: 20px;
+}
+
+
+.papa {
+    color: red;
+    font-size: 100px;
+    margin-left: 45%;
+}
+
+.distri {
+    margin-left: 50%;
+    font-size: 20px;
+}
+
+section {
+    width: 100%;
+    display: flex;
+    padding-top: 10%;
+}
+
+.txtsec {
+
+    margin-left: 52%;
+    font-size: 200%;
+}
+
+.imgsec {
+    display: flex;
+    margin-left: 30%;
+    margin-right: 20%;
+    align-items: center;
+
+}
+
+.image {
+    width: 300px;
+    box-shadow: 7px 7px 7px black;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    transition: box-shadow 1s, border-radius 1s;
+}
+
+.image:hover {
+    width: 300px;
+    box-shadow: 12px 12px 12px black;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.apropos {
+    background-color: bisque;
+    width: 100%;
+}
+
+.formation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    margin-top: 20px;
+    padding-bottom: 10px;
+
+}
+
+.formation1 {
+    display: flex;
+    justify-content:center;
+    margin-top: 20px;
+    padding-bottom: 10px;
+  
+
+}
+
+.form1 {
+    width: 200px;
+    margin: 10px;
+    padding: 40px;
+    margin-left: 100px;
+    border: solid 2px black;
+    background-color: rgb(251, 206, 152);
+    box-shadow: 10px 10px 10px black;
+  
+}
+
+
+
+.imgform {
+    margin-left: 20%;
+}
+
+.cv {
+    margin-left: 50%;
+    margin-bottom: 10px;
+    width: 100px;
+    background-color: bisque;
+    transition: background-color 2s;
+}
+
+.cv:hover {
+    margin-left: 50%;
+    width: 100px;
+    background-color: rgb(250, 205, 149);
+}
+
+.txtsec1 {
+
+    text-align: center;
+    font-size: 200%;
+}
+
+.descrip {
+    font-size: 15px;
+}
+
+.contactez {
+    width: 100%;
+    background-color: white;
+}
+
+.formulaire {
+    margin-left: 50%;
+    margin-top: 40px;
+}
+
+input {
+    border: dotted 3px black;
+}
+
+textarea {
+    border: dotted 3px black;
+}
+
+.fin {
+    background-color: red;
+    width: 100%;
+
+}
+
+.forme2 {
+    width: 200px;
+    margin: 10px;
+    padding: 40px;
+    margin-left: 100px;
+    border: solid 2px black;
+    background-color: rgb(251, 206, 152);
+    box-shadow: 10px 10px 10px black;
+}
+
+.copyright {
+    background-color: bisque;
+    width: 100%;
+}
